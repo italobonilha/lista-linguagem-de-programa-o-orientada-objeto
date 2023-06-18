@@ -1,6 +1,7 @@
 # atividade-linguagem-de-programação-orientada-objeto
 listas destinadas a atividade do professor Gerson Penha para a matéria de POO
-Alunos: Ítalo Bonilha & Debora Taira
+
+**Alunos: Ítalo Bonilha & Debora Taira
 
 **detalhes adicionais:
 <h2> as listas 1,2,3 não possuem instruções especifícas, só baixar e rodar <h2>
